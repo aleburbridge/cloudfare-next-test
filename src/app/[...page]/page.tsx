@@ -1,7 +1,7 @@
 // Example file structure, app/[...page]/page.tsx
 // You could alternatively use src/app/[...page]/page.tsx
 import { builder } from "@builder.io/sdk";
-import { RenderBuilderContent } from "../../components/builder";
+import { RenderBuilderContent } from "../components/builder";
 
 // Replace with your Public API Key
 builder.init('d4173130c72d466386720bb5a107ae34');
